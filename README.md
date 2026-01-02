@@ -10,7 +10,7 @@ Extracts emojis to study emotional expression
 
 Visualizes insights using word clouds and graphs
 
-🧠 Key Features
+## 🧠 Key Features
 
 Text preprocessing and data cleaning
 
@@ -24,7 +24,7 @@ Emoji extraction and frequency analysis
 
 Data visualization using Matplotlib, Seaborn, and Plotly
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 
@@ -38,27 +38,27 @@ WordCloud
 
 Emoji
 
-📂 Project Structure
+## 📂 Project Structure
 ├── UScomments.ipynb
 ├── README.md
 
-▶️ How to Run
+## ▶️ How to Run
 
-Clone the repository
+Clone the repository : 
 
 git clone https://github.com/your-username/your-repo-name.git
 
 
-Install dependencies
+Install dependencies :
 
 pip install pandas numpy textblob matplotlib seaborn plotly wordcloud emoji
 
 
-Open the notebook
+Open the notebook :
 
 jupyter notebook UScomments.ipynb
 
-📈 Results & Insights
+## 📈 Results & Insights
 
 Clear distribution of positive vs negative sentiments
 
@@ -66,7 +66,7 @@ Identification of most frequent words in comments
 
 Analysis of popular emojis representing user emotions
 
-🎯 Use Cases
+## 🎯 Use Cases
 
 Social media sentiment monitoring
 
@@ -74,7 +74,7 @@ Customer feedback analysis
 
 Opinion mining and emotion analysis
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Kiran
 AI / ML Enthusiast
