@@ -1,8 +1,8 @@
-****📊 Sentiment Analysis on US Social Media Comments****
+# ****📊 Sentiment Analysis on US Social Media Comments****
 
 This project performs sentiment analysis and emoji-based insights on US social media comments using Natural Language Processing (NLP) techniques. The goal is to understand user opinions, emotions, and engagement patterns from textual data.
 
-**🚀 Project Overview**
+## **🚀 Project Overview**
 
 Analyzes social media comments to determine positive and negative sentiments
 
